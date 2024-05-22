@@ -1,17 +1,16 @@
-
 ![Header](https://your-header-image-url)
 
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm KUNAL PATIL 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a diverse skill set in web development, mobile development, and machine learning.
 
 ## About Me
 
 - 🌱 I’m currently learning **Machine Learning** and exploring advanced concepts.
-- 🔭 I’m working on several exciting projects in **JavaScript, Dart, and Python**.
+- 🔭 I’m working on several exciting projects in **Flutter, JavaScript, and Python**.
 - 🤔 I’m looking for help with **open-source contributions**.
 - 💬 Ask me about **Java, JavaScript, C, C++, Python, Flutter, Dart, Riverpod, BLoC, Provider, Firebase, Node.js, Express.js, MongoDB, HTML, CSS, Tailwind CSS**.
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
+- 📫 How to reach me: [kunaldp379@gmail.com](mailto:kunaldp379@gmail.com)
 
 ## Skills
 
@@ -44,30 +43,21 @@ Welcome to my GitHub profile! I'm a passionate developer with a diverse skill se
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## Projects
-
-### Featured Projects
-
-- **[Project 1: Awesome Web App](https://github.com/your-github-username/project1)**
-  - Description: A web application built with React, Node.js, and MongoDB.
-  - Tech Stack: JavaScript, HTML, CSS, Node.js, Express.js, MongoDB
-
-- **[Project 2: Mobile App](https://github.com/your-github-username/project2)**
-  - Description: A cross-platform mobile application developed using Flutter and Firebase.
-  - Tech Stack: Dart, Flutter, Firebase
-
-- **[Project 3: Machine Learning Project](https://github.com/your-github-username/project3)**
-  - Description: A machine learning project utilizing Python and scikit-learn.
-  - Tech Stack: Python, scikit-learn, Jupyter Notebook
-
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_border=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kunalpro379&show_icons=true&hide_border=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&hide=html,css&hide_border=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kunalpro379&hide=html,css&hide_border=true&theme=radical)
+
+## Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=kunalpro379&color=brightgreen&style=flat)
 
 ## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-username)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kunal-patil-0357a5259)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KunalPa40651307)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunaldp379@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/kunalpro379)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kunaldpp379)
+
